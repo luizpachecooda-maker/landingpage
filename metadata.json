@@ -1,0 +1,8 @@
+{
+  "name": "Lyon Energy - Energia Solar",
+  "description": "Landing page premium de alta conversão para Lyon Energy: reduza até 95% na conta de luz com energia solar em Petrolina, Juazeiro e região. Simulador de economia interativo e atendimento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
